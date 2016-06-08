@@ -1,0 +1,4 @@
+include ':app', ':customview'
+
+include ':marqueeView'
+project(':marqueeView').projectDir = new File('marqueeView/')

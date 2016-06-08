@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MarqueeVerticalViewStyle">
+        <attr name="vInterval" format="integer|reference"/>
+        <attr name="vAnimDuration" format="integer|reference"/>
+        <attr name="vTextSize" format="dimension|reference"/>
+        <attr name="vTextColor" format="color|reference"/>
+    </declare-styleable>
+</resources>
